@@ -16,7 +16,6 @@ HTML: For the structure of the game.<br>
 CSS: For styling the interface.<br>
 JavaScript: For the logic and interactivity.<br>
 <br>![Screenshot 2025-01-22 215955](https://github.com/user-attachments/assets/66c18f86-1ff0-4531-8a92-7a876f25158b)
-<br>
 🎮 How to Play :<br>
 Open the game in a browser.<br>
 Choose your option: Rock, Paper, or Scissors.<br>
