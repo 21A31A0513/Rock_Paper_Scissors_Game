@@ -7,9 +7,7 @@ A simple and interactive Rock, Paper, Scissors game implemented using HTML, CSS,
 User-friendly interface.<br>
 Three choices: Rock, Paper, or Scissors.<br>
 Real-time result display: win, lose, or draw.<br>
-Fully responsive design for various devices.<br>
 Simple logic implemented in JavaScript for gameplay.<br>
-<br>
 <br>
 🛠️ Built With :<br>
 HTML: For the structure of the game.<br>
